@@ -1,7 +1,9 @@
 const Summary = () => {
     return (
         <>
-        <h1>Summary</h1>
+            <div>
+                <h1>Summary</h1>
+            </div>
         </>
     )
 }
